@@ -1,5 +1,3 @@
-# The task is to create a functional calcualator:
-# We need it to be able to, add, subtract, divide and multiply, area of a circle, square and triangle
 import math
 
 def add(num1, num2):
